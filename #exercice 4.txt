@@ -1,0 +1,6 @@
+#exercice 4
+
+Le trie a bulle est considérer comme très lent car il demande a la compilation de repasser tous le tableau a chaque fois 
+pour trouver la plus petite valeur et d'échanger sa place
+
+l'idée de temp de exécution varie par raport a la taille du taille du tableauqui demandera plus de temp si il est grand
